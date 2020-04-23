@@ -1,0 +1,16 @@
+#gallery {
+	margin: 10px 50 px;
+}	
+
+#gallery img {
+	width: 240px;
+	height: 160px;
+	padding: 5px;
+	opacity: 0.9;
+}
+
+#gallery img:hover {
+	opacity: 1.0;
+}
+	
+	
